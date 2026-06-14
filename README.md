@@ -39,7 +39,3 @@ src/
 └── index.css     # Estilos globales con Tailwind
 ```
 
-## Autor
-
-Luis Orlando Flores Canizales  
-Facultad de Informática Mazatlán, UAS
